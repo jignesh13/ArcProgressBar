@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomView">
+        <attr name="backcolor" format="color"/>
+        <attr name="progresscolor" format="color"/>
+        <attr name="progress" format="integer"/>
+        <attr name="strokewidth" format="dimension"/>
+        <attr name="endprogressradius" format="dimension"/>
+        <attr name="endprogresscolor" format="color"/>
+        <attr name="maxprogress" format="integer"/>
+
+    </declare-styleable>
+
+</resources>
