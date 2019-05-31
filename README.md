@@ -1,6 +1,13 @@
 # ArcProgressBar
 <image src=https://user-images.githubusercontent.com/20221469/58705533-21327500-83cd-11e9-8818-1fbe1faf6909.gif
  width=451 height=800>
+ **for gradient color uncomment below line from RoundProgressBar.java**
+
+ <pre>
+ 
+//        final LinearGradient linearGradient = new LinearGradient(0, 0, 0, (float) (getMeasuredHeight()), Color.parseColor("#0074ed"), Color.parseColor("#db458d"), Shader.TileMode.MIRROR);
+//        paint.setShader(linearGradient);
+ </pre>
   <pre>
   &lt;com.example.arcprogressbar.RoundProgressBar
         android:id="@+id/roundProgressBar"
