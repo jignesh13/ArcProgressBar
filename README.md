@@ -1,6 +1,8 @@
 # ArcProgressBar
 <image src=https://user-images.githubusercontent.com/20221469/58705533-21327500-83cd-11e9-8818-1fbe1faf6909.gif
  width=451 height=800>
+ 
+ 
  **for gradient color uncomment below line from RoundProgressBar.java**
 
  <pre>
