@@ -1,6 +1,5 @@
 # ArcProgressBar
-arc progressbar
-<image src=https://user-images.githubusercontent.com/20221469/58424764-c8ee3100-80b5-11e9-9a75-f9720de8da00.gif
+<image src=https://user-images.githubusercontent.com/20221469/58705533-21327500-83cd-11e9-8818-1fbe1faf6909.gif
  width=451 height=800>
   <pre>
   &lt;com.example.arcprogressbar.RoundProgressBar
