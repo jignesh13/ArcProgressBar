@@ -9,7 +9,7 @@
 //        final LinearGradient linearGradient = new LinearGradient(0, 0, 0, (float) (getMeasuredHeight()), Color.parseColor("#0074ed"), Color.parseColor("#db458d"), Shader.TileMode.MIRROR);
 //        paint.setShader(linearGradient);
 ```
-***use throw layout file***
+### how to use
 ```xml
   <com.example.arcprogressbar.RoundProgressBar
         android:id="@+id/roundProgressBar"
